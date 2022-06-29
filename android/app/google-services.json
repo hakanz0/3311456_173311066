@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169147702419",
+    "project_id": "su-chat-d04ad",
+    "storage_bucket": "su-chat-d04ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169147702419:android:ecd00e05779427974d4166",
+        "android_client_info": {
+          "package_name": "com.example.su_chat_hakan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169147702419-52erats5airsngfi8hffg8saf7308oiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZZt5nJb2-NAkBI3aoSa-a64dAU3GsHbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169147702419-52erats5airsngfi8hffg8saf7308oiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
